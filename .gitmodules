@@ -1,0 +1,3 @@
+[submodule "indx_modules/sm-pr-1"]
+	path = indx_modules/sm-pr-1
+	url = https://github.com/onur-celik/sm-pr-1.git
